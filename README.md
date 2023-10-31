@@ -78,8 +78,9 @@ using Microsoft.EntityFrameworkCore;
 
 # Para ver la base de datos, instalar extension vscode MS SQL
 - Ejecutar el comando (Ctrl+P) MS SQL Add Connection
-
+- Pegar el connection string
+  
 # Clonar repositorio
 - Ejecutar
 - git clone https://github.com/matiasdieguez/MarketingSystem.git
-- Pegar el connection string
+
