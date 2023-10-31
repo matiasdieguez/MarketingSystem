@@ -22,7 +22,7 @@ mkdir MarketingSystem
 
 # Borramos el ejemplo de WheatherForecast
 
-# Creamos la carpeta Models en Backend
+# Creamos la carpeta Mod33els en Backend
 - cd MarketingSystem.Backend
 - mkdir Models
 
@@ -78,4 +78,8 @@ using Microsoft.EntityFrameworkCore;
 
 # Para ver la base de datos, instalar extension vscode MS SQL
 - Ejecutar el comando (Ctrl+P) MS SQL Add Connection
+
+# Clonar repositorio
+- Ejecutar
+- git clone https://github.com/matiasdieguez/MarketingSystem.git
 - Pegar el connection string
