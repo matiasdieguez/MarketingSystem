@@ -7,7 +7,7 @@ namespace MarketingSystem.Backend.Models
         public string LastName { get; set; }
         public DateTime BirthDate { get; set; }
         public string Email { get; set; }
-        public string Phone { get; set; }
+        public string PhoneNumber { get; set; }
         public double Age
         {
             get { return (DateTime.Now - BirthDate).TotalDays / 365; }
